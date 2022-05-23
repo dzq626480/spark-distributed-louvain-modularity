@@ -1,3 +1,11 @@
+# upgrade
+ * use aggregateMessages instead of mapReduceTriplets
+ * require spark 2.4.8 or later
+ * add pom.xml for maven  
+
+upgrade by qiango  
+date 2022-05-23
+
 # dga-graphx 
 
 - GraphX Algorithms
